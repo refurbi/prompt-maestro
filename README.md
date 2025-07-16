@@ -86,7 +86,5 @@ Este proyecto está licenciado bajo la [MIT License](LICENSE). Puedes usarlo, ad
 
 ---
 
-## 🔗 Créditos
 
-Creado por [Tu Nombre o Usuario de GitHub] — Diseñado para mejorar el uso práctico de IA generativa.
 
